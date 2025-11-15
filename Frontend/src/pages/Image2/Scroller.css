@@ -1,0 +1,31 @@
+.frame1 {
+    background-attachment: fixed; /* This should make the image stay fixed while scrolling */
+    background-size: cover; /* Ensures the image covers the full container */
+    background-position: center; /* Keeps the image centered */
+    height: 100vh; /* Makes sure the container is at least 100% of the viewport height */
+    position: relative;
+}
+.frame2 {
+    background-attachment: fixed; /* This should make the image stay fixed while scrolling */
+    background-size: cover; /* Ensures the image covers the full container */
+    background-position: center; /* Keeps the image centered */
+    height: 100vh; /* Makes sure the container is at least 100% of the viewport height */
+    position: relative;
+}
+
+.frame3 {
+    background-attachment: fixed; /* This should make the image stay fixed while scrolling */
+    background-size: cover; /* Ensures the image covers the full container */
+    background-position: center; /* Keeps the image centered */
+    height: 100vh; /* Makes sure the container is at least 100% of the viewport height */
+    position: relative;
+}
+
+.frame4 {
+    background-attachment: fixed; /* This should make the image stay fixed while scrolling */
+    background-size: cover; /* Ensures the image covers the full container */
+    background-position: center; /* Keeps the image centered */
+    height: 100vh; /* Makes sure the container is at least 100% of the viewport height */
+    position: relative;
+}
+

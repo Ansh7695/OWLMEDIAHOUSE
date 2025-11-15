@@ -1,0 +1,33 @@
+/* Hide horizontal overflow globally */
+html, body {
+    overflow-x: hidden;
+    width: 100%;
+  }
+  
+  /* Background scrolling animation */
+  @keyframes moveBackground {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-100%);
+    }
+  }
+  
+  /* Smooth scrolling effect */
+  .bg-container {
+    display: flex;
+    width: 200%; /* Ensures smooth transition */
+  }
+  
+  .bg-moving {
+    animation: moveBackground 10s linear infinite;
+    will-change: transform;
+  }
+  
+  /* Blend mode and opacity for the foreground image */
+  .mix-blend-screen {
+    mix-blend-mode: screen;
+    opacity: 0.5; /* Adjust opacity if needed */
+  }
+  

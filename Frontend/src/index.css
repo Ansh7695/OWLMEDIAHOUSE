@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Wallpoet&display=swap');
+
+@import "tailwindcss";
+
+*{
+  font-family:Outfit;
+}
+
+
+.outfit-regular {
+  font-family: "Outfit", serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+html, body {
+  overflow-x: hidden !important;
+  width: 100%;
+}
+
+
