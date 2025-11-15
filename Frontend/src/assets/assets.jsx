@@ -1,5 +1,5 @@
 import icon1 from "./icon1.png"
-import icon2 from "./icon2.png"
+import icon2 from "../icon2.png"
 import icon3 from "./icon3.png"
 import icon4 from "./icon4.png"
 import icon5 from "./icon5.png"
