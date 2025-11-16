@@ -1,7 +1,7 @@
-import Add from "./add.png"
-import Order from "./order.png"
-import Logo from "./logo.png"
-import Upload from "./upload.png"
+import Add from "./Add.png"
+import Order from "./Order.png"
+import Logo from "./Logo.png"
+import Upload from "./Upload.png"
 
 
 
