@@ -1,10 +1,9 @@
-import logo from "./logo.jpg"
-import icon1 from "./Icons/Icon1.png";
-import icon2 from "./Icons/Icon2.png";
-import icon3 from "./Icons/Icon3.png";
-import icon4 from "./Icons/Icon4.png";
-import icon5 from "./Icons/Icon5.png";
-import icon6 from "./Icons/Icon6.png";
+import icon1 from "./Icons/Icon1.png"
+import icon2 from "./Icons/Icon2.png"
+import icon3 from "./Icons/Icon3.png"
+import icon4 from "./Icons/Icon4.png"
+import icon5 from "./Icons/Icon5.png"
+import icon6 from "./Icons/Icon6.png"
 import banner from "./banner.jpg"
 import office from "./office.webp"
 import above from "./above.jpg"
@@ -38,8 +37,6 @@ import WeForSociety from "./OWl Media cards/9.jpg"
 
 
 export const assets={
-
-  logo,
   icon1,
   icon2,
   icon3,
