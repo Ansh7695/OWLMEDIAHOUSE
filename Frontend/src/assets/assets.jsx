@@ -1,3 +1,4 @@
+import logo from "./logo.jpg"
 import icon1 from "./Icons/Icon1.png"
 import icon2 from "./Icons/Icon2.png"
 import icon3 from "./Icons/Icon3.png"
@@ -38,6 +39,7 @@ import WeForSociety from "./OWl Media cards/9.jpg"
 
 export const assets={
 
+  logo,
   icon1,
   icon2,
   icon3,
